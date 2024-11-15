@@ -1,13 +1,13 @@
-## Desafio #03 - Clean Architecture
+## Go Template
 
-O desafio consiste em adicionar o usecase de listagem de pedidos (orders).
+Template para criação de projetos em Go, utilizando as melhores práticas e padrões de desenvolvimento.
 
 #### 🖥️ Detalhes Gerais:
 
-O novo usecase deverá ser utilizado para expor as informações, na medida em que forem requisitadas:
-- Em endpoint (GET /order)
-- Em um novo service ListOrders com gRPC
-- Em uma nova query ListOrders com GraphQL
+Especificações e detalhes gerais do projeto. 
+- a
+- b
+- c
 
 > Como adicional, será também possível consultar um pedido específico, através de um endpoint (GET /order/:id), um service `ListOrderById` com gRPC e uma query `listOrder` com GraphQL.
 
